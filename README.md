@@ -22,13 +22,13 @@
 <tbody>
 <tr class="odd">
 <td>Christina Michalski</td>
-<td>Experimental Medicine (PhD)</td>
+<td>Experimental Medicine</td>
 <td>Immunology</td>
 <td><span class="citation">@ChristinaMi</span></td>
 </tr>
 <tr class="even">
 <td>Heather A. MacKay</td>
-<td>Wood Science (MSc)</td>
+<td>Wood Science</td>
 <td>Plant Biotechnology and molecular biology</td>
 <td><span class="citation">@HAMacKay</span></td>
 </tr>
@@ -40,13 +40,13 @@
 </tr>
 <tr class="even">
 <td>Nichalle Brito</td>
-<td>Biochemistry and molecular biology (MSc)</td>
+<td>Biochemistry and molecular biology</td>
 <td>Proteomics and viral proteases</td>
 <td><span class="citation">@Nichalle</span></td>
 </tr>
 <tr class="odd">
 <td>Rebecca Asiimwe</td>
-<td>Bioinformatics (MSc)</td>
+<td>Bioinformatics</td>
 <td>Computational Biology and Cancer Research</td>
 <td><span class="citation">@rasiimwe</span></td>
 </tr>
